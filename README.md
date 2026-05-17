@@ -1,6 +1,14 @@
+
+
+https://github.com/user-attachments/assets/14247f48-9f17-40f1-b354-3fd2d1f6b3fb
+
+
+
 <div align="center">
   <h1>Лабораторна робота №5</h1>
   <h3>з дисципліни «Об'єктно-орієнтоване програмування»</h3>
+
+
 </div>
 
 <br/>
